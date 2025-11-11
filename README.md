@@ -38,7 +38,7 @@ Todos os exercícios foram desenvolvidos em **Java**, com:
 - **FURB – Universidade Regional de Blumenau**  
 - **Curso:** Bacharelado em Sistemas de Informação  
 - **Disciplina:** Introdução à Programação (1º semestre)  
-- **Unidade:** 4 – Estruturas de Seleção  
+
 
 
 
